@@ -79,9 +79,9 @@ button:hover {
     transform: (1.05s);
 }
 
-/* ESTILO MENU MOBILE
+/* ESTILO MENU MOBILE */
 .abrir-menu i{
-    color: rgba(30, 200, 252, 0.801);
+    color: rgba(19, 87, 233, 0.801);
     font-size: 28px;
 }
 .menu-mobile{
@@ -131,7 +131,7 @@ button:hover {
     z-index: 8888;
     display: none;
 }
-*/
+
 
 /* TOPO SITE STYLE */
 .topo-do-site {
